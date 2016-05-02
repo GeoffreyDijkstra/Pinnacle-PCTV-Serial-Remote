@@ -1,7 +1,6 @@
 # Pinnacle PCTV Serial Remote, Windows Files
-There a still a few people out there that are looking for these files for Windows so I decided to put them on github.
-All files needed to get the remote working are included and even the original documentation is added.
-
+There are still a few people looking for the windows files for the Pinnacle PCTV Serial Remote.
+So I decided to put them on github. All files needed to get the remote working are included and even the original documentation is added.
 I also included a custom configuration to use the remote with Kodi (aka XBMC)
 
 # Installation (Windows)
